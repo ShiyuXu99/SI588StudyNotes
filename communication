@@ -1,0 +1,104 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1 id="Communication">Communication</h1>
+<p><span class='hashtag'>#SI588</span></p>
+
+<p>Clark’s Theory of Language Use</p>
+<ul><li>	Common ground
+</li><li>	Joint Action
+</li><li>	Features of Face to Face communication
+</li><li>	Process of Grounding
+</li><li>	Levels of Joint Action
+</li><li>	Tracks and Layers
+</li><li>	Constraints on Grounding (incl. Media Choice)
+</li></ul>
+
+
+<p>Key aspects of Communication</p>
+<ul><li>	Communication is a collaborative activity
+</li><li>	Communication requires common ground
+</li><li>	Communication is essential for joint action
+</li><li>	Different media provide different “constraints on grounding”
+</li></ul>
+
+
+<p><b>What is Common Ground?</b></p>
+<p>Something that people all know each other knows. </p>
+<p><i>“a proposition p is only common ground if: all the people conversing know p; and they know that they all know p”</i></p>
+
+<p>ex. Text on a graph explaining what things are.</p>
+<ul><li>	Common language (e.g., English)
+</li><li>	Common capabilities (e.g., sight, hearing)
+</li><li>	Common reference (e.g., visual material)
+</li><li>	Common knowledge (e.g., domain knowledge, common sense)
+</li><li>	Common vocabulary (e.g., technical vs. lay terms)
+</li><li>	Protocol (e.g., professional etiquette)
+</li><li>	Culture (comes with assumptions about knowledge, protocol)
+</li><li>	History (recent and distant)
+</li></ul>
+
+<p>ex. Menu of a new pages</p>
+
+
+<h2 id="Interpreting Language">Interpreting Language</h2>
+<p> Face to face is a joint action. </p>
+<ul><li>	It’s “basic” that don’t need to lean
+<ul><li>		Precedes written communication
+</li></ul></li><li>	It’s not just verbal
+<ul><li>		Gesture, facial expression and grunts
+</li></ul></li><li>	It’s a joint action, two people have to do it together
+</li><li>	F2F uses common ground to make communication efficient
+</li><li>	F2F conversation develops common ground
+</li></ul>
+
+
+<ul><li>	k is a joint action engaged by A and B if…
+<ul><li>		A believes k includes A’s part plus B’s part
+</li><li>		A intends to do A’s part
+</li><li>		B believes k includes A’s part plus B’s part
+</li><li>		B believes A intends to do A’s part
+</li><li>		A believes B believes A intends to do A’s part
+</li></ul>
+</li></ul>
+
+<p><b>Constraints on Grounding</b></p>
+<ul><li>	Copresence: A and B in same physical environment (colocation)
+</li><li>	Visibility: A and B are visible to one another
+</li><li>	Audibility: A and B communicate by speaking, noise
+</li><li>	Contemporality: B receives at roughly the same time as A produces
+</li><li>	Simultaneity: A and B can send/receive simultaneously (e.g., nodding)
+</li><li>	Sequentiality: A’s and B’s turns cannot get out of sequence (e.g., emails out of order ~= sequential)
+</li><li>	Reviewability: B can review A’s messages
+</li><li>	Revisability: A can revise message for B (before they’re sent, like Slack or text or email)
+</li></ul>
+
+
+<p><b>Media Equation Theory</b></p>
+<p>	 How people treat computers vs how they treat other person</p>
+<ul><li>		People often treat computer the way they treat other person.
+</li></ul>
+<p>	</p>
+<p>Maners: How polite people are to the machine, interpersonal distance</p>
+<p>Personality: They treat machine like if they have personality</p>
+<p>Emotions:</p>
+<p>Teammates: view computer as teammates</p>
+
+
+<p><b>Grice’s Maxims for Politeness</b></p>
+<p>Quality: Things said should be true;</p>
+<p>Quantity: Should contribute no more and no less that what conversation demands;</p>
+<p>Relevance: Should be clearly related to purpose of conversation</p>
+<p>Clarity: Contribution to a conversation should not be obscure</p>
+
+
+</body>
+
+
